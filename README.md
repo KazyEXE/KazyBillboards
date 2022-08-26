@@ -16,4 +16,4 @@ This added Alpha, but if I had more than a certain amount of objects that used t
 Anyway, this took several days of troubleshooting and trial and error, so I wanted to throw this out there in case anyone else is looking for this type of shader. Again, I am not a developer and do not completely understand all aspects of this code (though I more or less know the gist of what each section is doing), so this shader could probably use a lot of optimization. Feel free to submit pull requests if you find some way to make it better, or hit me up on Twitter, @KazyEXE
 
 
-If you like this, feel free to leave a tip at paypal.me/KazyEXE
+If you like this, feel free to leave a tip at https://paypal.me/KazyEXE
